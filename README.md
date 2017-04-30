@@ -42,7 +42,12 @@ If we want to get more people interested in computer science one of the best way
 * GitHub Repo: https://github.com/rubyforgood/lcsi
 * Slack channel: #lcsi
 
-### Home 4 Reentry
+### Here for Reentry
+
+Here for Reentry is focused around creating a toolset for previously incarcerated "returning citizens" to connect socially with one another, learn important information about quality social services, and organize politically to advocate for issues relevant to their lives and their communities. These are our neighbors, our friends and our family.
+
+* GitHub: https://github.com/rubyforgood/word-of-mouth
+* Slack Channel: #reentryteam
 
 ### Justice for Juniors
 
@@ -50,8 +55,16 @@ If we want to get more people interested in computer science one of the best way
 
 ### Stop Child Abuse Now of Northern VA
 
+Stop Child Abuse Now of Northern Virginia (a.k.a SCAN) is a non-profit organization whose mission is to promote the well-being of children, improve parent-child relations and prevent child abuse and negelect.
+
+* GitHub: https://github.com/rubyforgood/scan-donation
+* Slack Channel: #scan
+
 ### Conservation Center for Species Survival
 
 ### Ruby for Good Meta Team
 
 Are you a designer? Infrastructure specialist? Other non-ruby skill? This may be the team for you! The Meta team will be working on some Ruby for Good projects as well as supporting some of the other teams.
+
+* GitHub: https://github.com/rubyforgood/www.rubyforgood.org
+* Slack Channel: #meta
