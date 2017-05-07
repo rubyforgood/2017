@@ -51,7 +51,17 @@ Here for Reentry is focused around creating a toolset for previously incarcerate
 
 ### Justice for Juniors
 
+Justice for Juniors, sponsored by the Luther Rice Chapel, is dedicated to addressing juvenile recidivism in the District of Columbia by offering mentoring and tutorial visitation services to juveniles returning to the community in subjects such as ethics, education, and faith. We hope to lay a foundation for disadvantaged youth to gain the skills, hope, and sense of community needed to live a life without crime. We partner with local universities and other volunteer groups to visit with incarcerated youth at various stages of their unfortunate positions in the system from YSC (the youth jail), to those living in one of the city's 10 shelter-homes (unlocked facilities where the children are allowed to leave to attend school, other activities and home visits on the weekends) to those in diversion programs (avoiding being charged for a crime by satisfying various things of which Justice for Juniors is part). The program also involves an advocacy component, hosting a Juvenile Justice Forum annually where representatives from various organizations, such as the US DOJ, prosecutors, police, NAACP representatives, child rights advocates, are invited to discuss the year's topic. There are on average 1,600 juveniles in the DC justice system at any given time. Over the past 6 years Justice for Juniors has worked diligently to reduce that number.
+
+* GitHub: https://github.com/rubyforgood/justice
+* Slack Channel: #justiceforjuniors
+
 ### Operation Code
+
+Operation Code helps the military community learn software development, enter the tech industry, and code the future. Through mentoring, scholarships, and the open source community we get past and present Army, Navy, Marines, Air Force, and Coast Guard service members, veterans and military spouses into programming and out into the work force.
+
+* GitHub: https://github.com/rubyforgood/operationcode_backend, https://github.com/rubyforgood/operationcode_frontend
+* Slack Channel: #operation_code
 
 ### Stop Child Abuse Now of Northern VA
 
