@@ -18,14 +18,14 @@ Almost half of school-age homeless children have emotional problems like anxiety
 
 Each month over 350,000 children as helped by diaper banks, forgoing their parents having to make the difficult choice of choosing between feeding their children and putting diapers on them. There are diaper banks in 44 states and they provide about 4 million diapers a month to needy families. We're going to be taking what we built last year for the Portland Diaper Bank, adding some new features and turning it into a platform that all diaper banks can use!
 
-* Github Repo: https://github.com/rubyforgood/diapers
+* Github Repo: https://github.com/rubyforgood/diaper
 * Slack channel: #diaper_saas
 
 ### Smithsonian Climate Research (brownfield project)
 
 In the current political climate where the party in power seems to be doing everything the can to hide EPA, climate, and other environmental data is it pretty amazing that there are researchers out there still publishing this important information. We'll be updating, upgrading, and adding features to an application they are using to share this data with the world.
 
-* Github Repo: https://github.com/rubyforgood/climate_calculator
+* Github Repo: https://github.com/rubyforgood/ghgvc
 * Slack channel: #climate
 
 ### Elizabeth House
@@ -86,5 +86,5 @@ centralized location with some special features to allow everyone to interact.
 
 Are you a designer? Infrastructure specialist? Other non-ruby skill? This may be the team for you! The Meta team will be working on some Ruby for Good projects as well as supporting some of the other teams.
 
-* GitHub: https://github.com/rubyforgood/www.rubyforgood.org
+* GitHub: https://github.com/rubyforgood/rubyforgood.org
 * Slack Channel: #meta
