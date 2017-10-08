@@ -30,7 +30,7 @@ In the current political climate where the party in power seems to be doing ever
 
 ### Elizabeth House
 
-It is a depressing statistic that about 20 percent of children and 10 percent of seniors live in poverty and rely on food pantries. The amazing people at the Elizabeth House are helping low income residents in Laurel by operating as both a soup kitchen and as food pantry. We'll be helping the Elizabeth House by building them tools to assist with their scheduling and volunteers.
+It is a depressing statistic that about 20 percent of children and 10 percent of seniors live in poverty and rely on food pantries. The amazing people at the Elizabeth House are helping low income residents in Laurel by operating as both a soup kitchen and a food pantry. We'll be helping the Elizabeth House by building them tools to assist with their scheduling and volunteers.
 
 * GitHub Repo: https://github.com/rubyforgood/pantry_scheduler
 * Slack channel: #pantry
