@@ -16,7 +16,7 @@ Almost half of school-age homeless children have emotional problems like anxiety
 
 ### Diaper Bank (greenish-brownfield project)
 
-Each month over 350,000 children as helped by diaper banks, forgoing their parents having to make the difficult choice of choosing between feeding their children and putting diapers on them. There are diaper banks in 44 states and they provide about 4 million diapers a month to needy families. We're going to be taking what we built last year for the Portland Diaper Bank, adding some new features and turning it into a platform that all diaper banks can use!
+Each month over 350,000 children are helped by diaper banks, forgoing their parents having to make the difficult choice of choosing between feeding their children and putting diapers on them. There are diaper banks in 44 states and they provide about 4 million diapers a month to needy families. We're going to be taking what we built last year for the Portland Diaper Bank, adding some new features and turning it into a platform that all diaper banks can use!
 
 * Github Repo: https://github.com/rubyforgood/diaper
 * Slack channel: #diaper_saas
