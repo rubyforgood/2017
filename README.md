@@ -16,7 +16,7 @@ Almost half of school-age homeless children have emotional problems like anxiety
 
 ### Diaper Bank (greenish-brownfield project)
 
-Each month over 350,000 children as helped by diaper banks, forgoing their parents having to make the difficult choice of choosing between feeding their children and putting diapers on them. There are diaper banks in 44 states and they provide about 4 million diapers a month to needy families. We're going to be taking what we built last year for the Portland Diaper Bank, adding some new features and turning it into a platform that all diaper banks can use!
+Each month over 350,000 children are helped by diaper banks, forgoing their parents having to make the difficult choice of choosing between feeding their children and putting diapers on them. There are diaper banks in 44 states and they provide about 4 million diapers a month to needy families. We're going to be taking what we built last year for the Portland Diaper Bank, adding some new features and turning it into a platform that all diaper banks can use!
 
 * Github Repo: https://github.com/rubyforgood/diaper
 * Slack channel: #diaper_saas
@@ -30,7 +30,7 @@ In the current political climate where the party in power seems to be doing ever
 
 ### Elizabeth House
 
-It is a depressing statistic that about 20 percent of children and 10 percent of seniors live in poverty and rely on food pantries. The amazing people at the Elizabeth House are helping low income residents in Laurel by operating as both a soup kitchen and as food pantry. We'll be helping the Elizabeth House by building them tools to assist with their scheduling and volunteers.
+It is a depressing statistic that about 20 percent of children and 10 percent of seniors live in poverty and rely on food pantries. The amazing people at the Elizabeth House are helping low income residents in Laurel by operating as both a soup kitchen and a food pantry. We'll be helping the Elizabeth House by building them tools to assist with their scheduling and volunteers.
 
 * GitHub Repo: https://github.com/rubyforgood/pantry_scheduler
 * Slack channel: #pantry
@@ -71,6 +71,10 @@ Stop Child Abuse Now of Northern Virginia (a.k.a SCAN) is a non-profit organizat
 * Slack Channel: #scan
 
 ### Conservation Center for Species Survival
+
+There is only one Shrike native to North America and it is a surprisingly important part of the ecosystem. While they were once extremely common throughout the eastern US and Canada, no other bird species has seen their populations reduced as much since the 1960s. The Conservation Centers for Species Survival needs an application to serve as a central repository for researchers in Canada, the US and Mexico to log their research. How amazing would it be to be part of research that may prevent this amazing animal from going extinct?
+
+* GitHub: https://github.com/rubyforgood/loggerhead_shrike
 
 ### Double H Ranch
 
