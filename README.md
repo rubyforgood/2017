@@ -1,5 +1,7 @@
 # 2017 Ruby for Good Projects
 
+# Our 2018 projects are [here](https://github.com/rubyforgood/2018)!
+
 ### Charter for Compassion (greenfield project)
 
 With the ever increasing amount of hate an intolerence in the world it is wonderful that there are organizations like charter for compassion. Their mission is to spread compassion so that people are treated the way they want to be treated. We'll be building them tools that will enable them to help catalog and spread the word of the amazing projects that they work on.
